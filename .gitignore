@@ -1,0 +1,5 @@
+*.nc
+*.idea
+results/*
+mussel maps/*
+*.mxd
